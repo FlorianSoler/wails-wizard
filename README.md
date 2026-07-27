@@ -6,4 +6,4 @@ this example if work related to a heavy client installer writen in go.
   Your browser does not support the video tag.
 </video>
 
-![Demo Preview](./doc/image/demo.gif)
+![Demo Preview](./doc/image/demo2.gif)
